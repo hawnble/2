@@ -1,4 +1,4 @@
-python -m pip install langchain
+pip install langchain
 pip install openai
 pip install -q streamlit
 pip install streamlit-chat
